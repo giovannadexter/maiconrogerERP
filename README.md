@@ -48,7 +48,7 @@ O repositório de gerência de configuração para o projeto ERP está estrutura
 
 - **relatorio/**: Uma pasta para armazenar documentos relacionados ao projeto, como relatórios de status, documentação técnica e outros documentos importantes.
 
-## Nichos Diferenciados do ERP
+## ERP
 
 Para gerenciar o projeto de ERP altamente especializado, foram escolhidos três nichos que se destacam:
 
