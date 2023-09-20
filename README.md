@@ -70,3 +70,13 @@ Para gerenciar o projeto de ERP altamente especializado, foram escolhidos três 
 ## Relatório
 
 O relatório completo sobre o projeto de gerência de configuração, incluindo detalhes sobre a estratégia de controle de versões, fluxo de desenvolvimento colaborativo e os diferenciais dos nichos do ERP, pode ser acessado [aqui](./relatorio/relatorio.pdf).
+
+
+## DESCRIÇÃO DA ATIVIDADE - https://classroom.google.com/c/NTU0NTU5ODMyNTMy/a/NjIxMzE4OTA3NzMx/details
+
+Imagine que você seja um gestor de projeto e precise criar um repositório de gerência de configuração para um projeto de ERP (Enterprise Resource Planning). Sua tarefa é estabelecer um sistema de controle de versões, desenvolvimento colaborativo e gerenciamento de novas funcionalidades. A seguir, descreva como você montaria esse repositório e, ao final elabore um relatório. Pesquisar no Mínimo três funcionalidades do ERP os arquivos podem ser criados .txt igual nos exemplos das aulas. No relatório anexar o link do repositório.
+Explique o que os contextos de baseline, mainline no seu repositório
+
+1. Criar Branch para as funcionalidades em cada branch criada anexar um arquivo.txt esse arquivo deverá ser criado com o nome da funcionalidade.
+2. Mesclar todos os arquivos criados no ramo principal main.
+3. Criar um release do projeto.
