@@ -1,10 +1,10 @@
 # Descrição das funcionalidades
 
-## Prontuário Eletrônico do Paciente (PEP): 
-Armazena informações médicas de pacientes, permitindo acesso rápido a históricos de saúde, resultados de exames e registros médicos.
+## Gestão de Linha de Produção: 
+Permite planejar e controlar o processo de produção, rastreando o status de cada etapa, incluindo estoques de materiais e tempos de produção.
 
-## Agendamento de Consultas: 
-Gerencia o agendamento de consultas médicas, incluindo a disponibilidade de médicos e a confirmação automática de compromissos.
+## Controle de Qualidade: 
+Facilita a verificação e o registro de padrões de qualidade para produtos manufaturados, permitindo a identificação de produtos com defeito.
 
-## Gestão de Estoques Hospitalares: 
-Controla o estoque de suprimentos médicos, garantindo que os hospitais tenham os recursos necessários para prestar cuidados adequados aos pacientes.
+## Manutenção Preditiva: 
+Utiliza dados de sensores e manutenção programada para prever falhas em equipamentos de produção, reduzindo o tempo de inatividade não planejado.
