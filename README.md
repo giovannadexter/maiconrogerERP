@@ -1,32 +1,3 @@
-# Descrição das funcionalidades
-
-## Gestão de Linha de Produção: 
-Permite planejar e controlar o processo de produção, rastreando o status de cada etapa, incluindo estoques de materiais e tempos de produção.
-
-## Controle de Qualidade: 
-Facilita a verificação e o registro de padrões de qualidade para produtos manufaturados, permitindo a identificação de produtos com defeito.
-
-## Manutenção Preditiva: 
-Utiliza dados de sensores e manutenção programada para prever falhas em equipamentos de produção, reduzindo o tempo de inatividade não planejado.
-=======
-## Gestão Acadêmica: 
-Permite o gerenciamento de informações acadêmicas, como notas, frequência e progresso dos alunos.
-
-## Portal do Aluno: 
-Fornece aos alunos acesso a informações sobre cursos, calendários acadêmicos, materiais didáticos e comunicação com professores.
-
-## Gestão de Biblioteca: 
-Facilita o controle de empréstimos de livros, reservas e catalogação de recursos da biblioteca.
-=======
-## Prontuário Eletrônico do Paciente (PEP): 
-Armazena informações médicas de pacientes, permitindo acesso rápido a históricos de saúde, resultados de exames e registros médicos.
-
-## Agendamento de Consultas: 
-Gerencia o agendamento de consultas médicas, incluindo a disponibilidade de médicos e a confirmação automática de compromissos.
-
-## Gestão de Estoques Hospitalares: 
-Controla o estoque de suprimentos médicos, garantindo que os hospitais tenham os recursos necessários para prestar cuidados adequados aos pacientes.
-=======
 O repositório de gerência de configuração para o projeto ERP está estruturado da seguinte forma:
 
 
