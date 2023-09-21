@@ -1,9 +1,14 @@
-## Repositório de Gerência de Configuração para Projeto ERP (Giovanna Kubo)
+# Descrição das funcionalidades
 
-Este repositório foi criado para gerenciar a configuração de um projeto de ERP (Enterprise Resource Planning) altamente especializado. Como gestor de projeto, minha tarefa é estabelecer um sistema de controle de versões, promover o desenvolvimento colaborativo e gerenciar novas funcionalidades em nichos específicos do ERP. Este README fornecerá uma visão geral de como o repositório está estruturado e os nichos diferenciados em que o ERP se destaca. Além disso, no final deste documento, você encontrará um link para acessar o repositório.
+## Prontuário Eletrônico do Paciente (PEP): 
+Armazena informações médicas de pacientes, permitindo acesso rápido a históricos de saúde, resultados de exames e registros médicos.
 
-## Estrutura do Repositório
+## Agendamento de Consultas: 
+Gerencia o agendamento de consultas médicas, incluindo a disponibilidade de médicos e a confirmação automática de compromissos.
 
+## Gestão de Estoques Hospitalares: 
+Controla o estoque de suprimentos médicos, garantindo que os hospitais tenham os recursos necessários para prestar cuidados adequados aos pacientes.
+=======
 O repositório de gerência de configuração para o projeto ERP está estruturado da seguinte forma:
 
 
