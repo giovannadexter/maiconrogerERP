@@ -8,7 +8,6 @@ O repositório de gerência de configuração para o projeto ERP está estrutura
 
 
 - **README.md**
-- **.gitignore**
 - **baseline/**
   - **v1.0/**
     - arquivo1.txt
